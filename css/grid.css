@@ -23,4 +23,8 @@
 	    grid-gap: 10px;
 	    grid-auto-rows: minmax(100px, auto);
 	}
+
+	#restaurants-list {
+		padding-right: 0;
+	}
 }
